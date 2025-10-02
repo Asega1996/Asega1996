@@ -17,7 +17,7 @@ I hold a degree in Computer Engineering from the University of Cádiz and have b
 
 ## 🤝 Let's Connect
 
-- 📧 Email: tu-email@ejemplo.com
+- 📧 Email: asega1996@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-segovia-gallardo-7810aa189/)
 
 ---
