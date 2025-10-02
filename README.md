@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello! I'm Alejandro Segovia
 
-<!--
-**Asega1996/Asega1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engienieer**
 
-Here are some ideas to get you started:
+I hold a degree in Computer Engineering from the University of Cádiz and have been professionally developing software since 2018. I have experience working across multiple sectors, delivering both **web and mobile projects**, always aiming to create clean, scalable, and user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vue, TypeScript, HTML5, CSS3, TailwindCSS, Sass
+- **Backend:** Node.js, NestJS, Express
+- **Testing:** Jest, React Testing Library, Cypress, Stryker (Mutation Testing)
+- **Tools & Platforms:** Git, GitHub, Docker, Vite, Webpack, Module Federation
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: tu-email@ejemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-segovia-gallardo-7810aa189/)
+
+---
+
+**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
